@@ -1,0 +1,11 @@
+定义变量: 
+a int 10
+b int 1
+
+中间变量:
+tmp1 int 10
+tmp2 int 3
+tmp3 int 1
+
+运行结果: 
+1

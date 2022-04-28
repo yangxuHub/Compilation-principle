@@ -1,0 +1,18 @@
+/*2019.12.7*/
+//if
+int main()
+{
+	int a=1;
+	int b=0;
+	if(a==1)
+	{
+		b--;
+		a+=b;
+	}
+	else
+	{
+		b--;
+		a-=b;
+	}
+	return b;
+}

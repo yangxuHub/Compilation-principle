@@ -1,0 +1,11 @@
+define bianliang:
+a int 1539185110
+c bool false
+b int 
+
+zhongjianbianliang:
+tmp1 int 1539185110
+tmp2 bool false
+
+result:
+

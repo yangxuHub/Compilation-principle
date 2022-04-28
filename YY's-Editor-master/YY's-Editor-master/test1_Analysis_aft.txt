@@ -1,0 +1,6 @@
+( = ,_,true,a)
+(=,_,10.000000,b)
+(&,a,b,tmp1)
+(|,tmp1,false,tmp2)
+( = ,_,tmp2,c)
+(return,c,_,_)

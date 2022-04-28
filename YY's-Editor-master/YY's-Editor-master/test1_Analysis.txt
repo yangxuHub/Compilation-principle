@@ -1,0 +1,15 @@
+4 int
+1 main
+48 (
+49 )
+46 {
+4 int
+21 a
+36 =
+22 -34420330
+Error in row 3!
+Error in row 3!
+2 return
+21 a
+44 ;
+47 }

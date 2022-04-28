@@ -1,0 +1,7 @@
+int main()
+{
+	bool a=true;
+	double b=10.0;
+	bool c=(a&b)|false;
+	return c;
+}

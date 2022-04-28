@@ -1,0 +1,5 @@
+int main()
+{
+	int a=;
+	double a=5.9;
+}

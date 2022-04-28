@@ -1,0 +1,15 @@
+defin bianliang:
+a bool true
+b double 10.000000
+c bool true
+
+zhongjianbianliang:
+tmp1 bool true
+tmp2 double 10.000000
+tmp3 bool true
+tmp4 bool true
+tmp5 bool false
+tmp6 bool true
+
+reault:
+true
